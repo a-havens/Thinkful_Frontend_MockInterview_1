@@ -1,3 +1,5 @@
+<strong>For this code, you will need to complete the PostDetail.js file completely, and the return rendering of the App.js file.</strong>
+
 Front End Web Development Interview
 
 We have a site that displays user posts from our jsonplaceholder website.
