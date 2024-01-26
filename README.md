@@ -1,23 +1,22 @@
-<strong><em>For this code, you will need to complete the PostDetail.js file completely, and the return rendering of the App.js file.</em></strong>
+[!NOTE]
+##***For this code, you will need to complete the PostDetail.js file completely, and the return rendering of the App.js file.***
 
-<font size=7>Front End Web Development Interview</font>
+#**Front End Web Development Interview**
 
 We have a site that displays user posts from our jsonplaceholder website.
 For this challenge, we're going to display comments from user posts using the JSONPlaceholder API. You should be familiar with this API from past exercises.
 
 
-Success Criteria
+##**Success Criteria**
 
-Functionality:
+###Functionality:
 
-Posts load from https://jsonplaceholder.typicode.com/posts?userId=1 and are displayed on the page. The page displays posts for just one user as specified by the userId.
+- Posts load from https://jsonplaceholder.typicode.com/posts?userId=1 and are displayed on the page. The page displays posts for just one user as specified by the userId.
+- The page displays the title and body properties from the post
+- When a post's body is clicked, the post's comments are fetched from https://jsonplaceholder.typicode.com/posts/${postId}/comments.
+- The page displays the body property of all the comments for a post on the page after the post is clicked
 
-The page displays the title and body properties from the post
-
-When a post's body is clicked, the post's comments are fetched from https://jsonplaceholder.typicode.com/posts/${postId}/comments.
-
-The page displays the body property of all the comments for a post on the page after the post is clicked
-
+  
 Specific Instructions and helpful tips
 
 Posts have this structure:
