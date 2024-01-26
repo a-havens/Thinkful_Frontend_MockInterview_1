@@ -1,7 +1,7 @@
 >[!NOTE]
 >For this code, you will need to complete the PostDetail.js file completely, and the return rendering of the App.js file.
 
-# Front End Web Development Interview
+# Front End Web Development Interview 1
 
 We have a site that displays user posts from our jsonplaceholder website.
 For this challenge, we're going to display comments from user posts using the JSONPlaceholder API. You should be familiar with this API from past exercises.
