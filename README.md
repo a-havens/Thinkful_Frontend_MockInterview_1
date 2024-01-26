@@ -21,7 +21,7 @@ Functionality:
 ## Specific Instructions and helpful tips
 
 Posts have this structure:
-
+```
 {
 
   "userId": 1,
@@ -33,13 +33,14 @@ Posts have this structure:
   "body": "Post 1 body"
   
 },
+```
 
 The post should display the title and body
 
 Each post has 5 comments
 
 A post's comments have the following structure:
-
+```
 {
 
   "postId": 1,
@@ -53,7 +54,7 @@ A post's comments have the following structure:
   "body": "Comment 4 body"
   
 }
-
+```
 A post's comments should only show after the post body is clicked. The commenter's email must be displayed on the page.
 
 All information can be displayed on the same page
