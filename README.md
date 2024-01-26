@@ -1,15 +1,15 @@
 [!NOTE]
-##***For this code, you will need to complete the PostDetail.js file completely, and the return rendering of the App.js file.***
+***For this code, you will need to complete the PostDetail.js file completely, and the return rendering of the App.js file.***
 
-#**Front End Web Development Interview**
+**Front End Web Development Interview**
 
 We have a site that displays user posts from our jsonplaceholder website.
 For this challenge, we're going to display comments from user posts using the JSONPlaceholder API. You should be familiar with this API from past exercises.
 
 
-##**Success Criteria**
+**Success Criteria**
 
-###Functionality:
+Functionality:
 
 - Posts load from https://jsonplaceholder.typicode.com/posts?userId=1 and are displayed on the page. The page displays posts for just one user as specified by the userId.
 - The page displays the title and body properties from the post
