@@ -18,7 +18,7 @@ Functionality:
 
 
 
-Specific Instructions and helpful tips
+## Specific Instructions and helpful tips
 
 Posts have this structure:
 
