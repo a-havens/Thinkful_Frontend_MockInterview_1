@@ -1,4 +1,4 @@
-<strong>For this code, you will need to complete the PostDetail.js file completely, and the return rendering of the App.js file.</strong>
+<strong><em>For this code, you will need to complete the PostDetail.js file completely, and the return rendering of the App.js file.</em></strong>
 
 Front End Web Development Interview
 
